@@ -171,7 +171,7 @@ input::placeholder{
     flex-basis:30%;
     
   }
-  .right-div .card{
+  .card{
     /* width:80%; */
     padding: 7px 10px;
     color:#222 ;
@@ -256,6 +256,11 @@ input::placeholder{
     color:wheat;
 }
 
+.grid-container{
+    margin: 2rem;
+    display: grid;
+    grid-template:1fr 1fr /1fr 1fr;
+}
 
 
 @media only screen and (max-width :786px){
