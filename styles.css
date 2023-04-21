@@ -296,7 +296,7 @@ input::placeholder{
     }
     .header-content{
         padding-right:10%;
-        width: 100%;
+        width: 80%;
     }
     .row{
         flex-direction: column;
